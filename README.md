@@ -42,3 +42,9 @@ https://github.com/thuml/Time-Series-Library
 https://github.com/MAZiqing/FEDformer
 
 https://github.com/zhouhaoyi/Informer2020
+
+https://github.com/weifantt/Dish-TS
+
+https://github.com/yuqinie98/PatchTST
+
+https://github.com/Thinklab-SJTU/Crossformer
