@@ -29,7 +29,9 @@ Special thanks to the following repositories for their invaluable code and datas
 
 https://github.com/thuml/Autoformer
 
-https://github.com/yuqinie98/PatchTST
+https://github.com/honeywell21/DLinear
+
+https://github.com/cure-lab/LTSF-Linear
 
 https://github.com/icantnamemyself/SAN
 
