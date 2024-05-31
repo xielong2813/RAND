@@ -31,7 +31,7 @@ https://github.com/thuml/Autoformer
 
 https://github.com/yuqinie98/PatchTST
 
-https://github.com/Thinklab-SJTU/Crossformer
+https://github.com/icantnamemyself/SAN
 
 https://github.com/wanghq21/MICN
 
