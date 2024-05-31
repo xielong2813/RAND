@@ -9,16 +9,26 @@ instances and addaptively denormalizes the output series by modeling variations 
 
 
 ### Usage
-
+### 🛠 Prerequisites
 #### Environment and dataset setup
+
+Ensure you are using Python 3.9 and install the necessary dependencies by running:
 
 ```bash
 pip install -r requirements.txt
 mkdir datasets
 ```
-
-All the datasets are available at the [Google Driver](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) provided by Autoformer. Thanks to their work!
-
+### 📊 Prepare Datastes
+All the datasets are available at the [Google Driver](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) provided by Autoformer. 
+Begin by downloading the required datasets. All datasets are conveniently available at Autoformer. Create a separate folder named ./dataset and neatly organize all the csv files as shown below:
+dataset
+└── electricity.csv
+└── ETTh1.csv
+└── ETTh2.csv
+└── ETTm1.csv
+└── ETTm2.csv
+└── traffic.csv
+└──  weather.csv
 #### Running
 
 We provide ready-to-use scripts for RAND enhanced backbone models.
@@ -51,3 +61,6 @@ https://github.com/weifantt/Dish-TS
 https://github.com/yuqinie98/PatchTST
 
 https://github.com/Thinklab-SJTU/Crossformer
+
+### 📩 Contact
+If you have any questions, please contact xiel21@mails.tsinghua.edu.cn or submit an issue.
