@@ -14,7 +14,7 @@ pip install -r requirements.txt
 mkdir datasets
 ```
 
-All the datasets are available at the [Google Driver](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) provided by Autoformer. Thanks to their efforts!
+All the datasets are available at the [Google Driver](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy) provided by Autoformer. Thanks to their work!
 
 #### Running
 
