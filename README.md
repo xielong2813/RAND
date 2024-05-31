@@ -24,3 +24,13 @@ We provide ready-to-use scripts for RAND enhanced backbone models.
 sh run_rand.sh
 ```
 
+#### 🙏 Acknowledgement
+Special thanks to the following repositories for their invaluable code and datasets:
+
+https://github.com/thuml/Autoformer
+https://github.com/yuqinie98/PatchTST
+https://github.com/Thinklab-SJTU/Crossformer
+https://github.com/wanghq21/MICN
+https://github.com/thuml/Time-Series-Library
+https://github.com/MAZiqing/FEDformer
+https://github.com/zhouhaoyi/Informer2020
