@@ -4,6 +4,9 @@
 ### Introduction
 This repo is a Pytorch implementation of the paper--RAND:Adaptive Normalization and Denormalization Method for Non-Stationary Time Series Forecasting.
 
+RAND is a plug-and-play normalization and denormalization method, namely Resolution-Adaptive Normalization and Denormalization, it is devised to deal with the distribution shift problem in time series for machine-learning-based forecasting model. It normalizes the input time series to reduce distribution differences between
+instances and addaptively denormalizes the output series by modeling variations of slice-level time-varying mean and variance.
+
 
 ### Usage
 
